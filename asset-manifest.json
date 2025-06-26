@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/memory-book-private/static/css/main.d9ba5368.css",
+    "main.js": "/memory-book-private/static/js/main.93dc14de.js",
+    "index.html": "/memory-book-private/index.html",
+    "main.d9ba5368.css.map": "/memory-book-private/static/css/main.d9ba5368.css.map",
+    "main.93dc14de.js.map": "/memory-book-private/static/js/main.93dc14de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9ba5368.css",
+    "static/js/main.93dc14de.js"
+  ]
+}
